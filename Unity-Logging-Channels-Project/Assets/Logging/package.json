@@ -1,0 +1,11 @@
+{
+  "name": "com.dandev.unity-logging-channels",
+  "version": "1.0.1",
+  "displayName": "Unity Logging Channels",
+  "description": "Logging channels for Unity",
+  "unity": "6000.3",
+  "author": {
+    "name": "Dandev",
+    "email": "dandavison99@gmail.com"
+  }
+}
